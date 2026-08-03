@@ -93,6 +93,10 @@ index.html
 
 no navegador.
 
+Ou visualize a aplicação online:
+
+🌐 **Demo:** [Clique aqui]([(https://jose-neres.github.io/PROJETO-PORTAL-DE-NOTICIAS/)])
+
 ---
 
 ## 📸 Preview
