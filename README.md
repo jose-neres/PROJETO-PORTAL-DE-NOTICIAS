@@ -46,11 +46,11 @@ Durante o desenvolvimento foram aplicados conhecimentos como:
 
 ## ✨ Características
 
-✔ Interface inspirada em portais de notícias
-✔ Organização de conteúdos por seções
-✔ Destaque visual para informações principais
-✔ Layout desenvolvido do zero utilizando CSS
-✔ Estrutura simples e objetiva para apresentação de notícias
+✔ Interface inspirada em portais de notícias <br>
+✔ Organização de conteúdos por seções<br>
+✔ Destaque visual para informações principais<br>
+✔ Layout desenvolvido do zero utilizando CSS<br>
+✔ Estrutura simples e objetiva para apresentação de notícias<br>
 
 ---
 
